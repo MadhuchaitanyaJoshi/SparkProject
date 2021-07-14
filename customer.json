@@ -1,0 +1,8 @@
+{
+"start_time":"2020-08-10 00:00:00.000000",
+"end_time" : "2020-10-11 23:59:59.999999",
+"dateStripFormat" : "%Y-%m-%d %H:%M:%S.%f",
+"transactionsPath" : "F:/Interview/revolve Solutions/customerJob/testTrasactions.json",
+"customerPath" : "F:/Interview/revolve Solutions/Data Engineer Pairing Data/starter/customers.csv",
+"productsPath" : "F:/Interview/revolve Solutions/Data Engineer Pairing Data/starter/products.csv"
+}
